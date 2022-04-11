@@ -1,3 +1,5 @@
+# 10876
+
 n = int(input())
 array = list(map(int, input().split()))
 
